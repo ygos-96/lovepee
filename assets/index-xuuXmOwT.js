@@ -787,7 +787,7 @@
       <section class="wishes-hero">
         <span class="wishes-hero-icon">${L.heart}</span>
         <h1>Lista de desejos</h1>
-        <p>Sugira produtos que você quer ver na Lovepee. Cole o link e buscamos o nome e uma imagem parecida automaticamente.</p>
+        <p>Sugira produtos que você quer ver na Lovepee. Cole o link e fazemos o trabalho pra você.</p>
       </section>
 
       <section class="wishes-form-card">
