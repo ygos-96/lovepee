@@ -251,7 +251,6 @@
       <div class="login-card">
         <div class="login-brand">
           <img src="${Ee}" alt="${Te}" class="login-brand-logo" width="256" height="64" />
-          <p>Sua loja favorita, estilo app</p>
         </div>
 
         <form id="loginForm" class="login-form" novalidate>
