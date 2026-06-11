@@ -262,7 +262,7 @@
               type="text"
               name="username"
               autocomplete="username"
-              placeholder="seu login da planilha"
+              placeholder="seu login"
               required
               ${t?`disabled`:``}
             />
